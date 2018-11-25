@@ -15,4 +15,13 @@ Whenever we are designing a large system, we need to consider few things:
 * How can we best utilize these pieces, what are the right tradeoffs?
 
 
+## Topics
+* Data Models (SQL vs NoSQL)
+* Load Balancing
+* Caching
+* Sharding and Data Partitioning
+* MapReduce
+* Distributed Systems
+
+
 
